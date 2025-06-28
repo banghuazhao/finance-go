@@ -1,0 +1,291 @@
+/*
+   Localizable.strings
+   Financial Statements Go
+
+   Created by Banghua Zhao on 6/22/20.
+   Copyright © 2020 Banghua Zhao. All rights reserved.
+ */
+
+/* setting 相关 */
+"Yes" = "はい";
+"Cancel" = "キャンセル";
+
+"More" = "More";
+
+"Thanks for Your Support" = "ご協力ありがとうございました";
+
+"Clear Cache" = "キャッシュの消去する";
+
+"Do you want to clear cache" = "キャッシュをクリアしますか";
+
+"Share this App" = "このアプリを共有する";
+"Finance Go" = "米国株の達人";
+
+"Support this App" = "このアプリをサポートする";
+
+"Rate this App" = "このアプリを評価する";
+
+"We will constantly optimize and maintain our App and make sure users have the best experience" = "私たちは常にアプリを最適化して維持し、ユーザーが最高のエクスペリエンスを享受できるようにします";
+"Do you want to watch an advertisement to support this App" = "このアプリをサポートする広告を見たいですか";
+
+/* Ads */
+"More Apps (Ads)" = "More アプリ (広告)";
+"The purchase is successful" = "購入は成功しました";
+"The purchase is restored" = "購入が復元されました";
+"The purchase is failed" = "購入に失敗しました";
+"No product to be restored" = "復元する製品はありません";
+"Restore purchase" = "購入を元に戻す";
+"Remove Ads forever has been purchased" = "永久に広告を削除が購入されました";
+"Restoring purchase" = "購入の復元";
+"Request failed" = "リクエストに失敗しました";
+"Requesting the product" = "商品のリクエスト";
+"Remove Ads" = "広告を削除";
+"Remove this Ads forever" = "この広告を永久に削除する";
+"Purchasing" = "購入";
+"No Data" = "データなし";
+"Purchase Notes" = "購入メモ";
+"After purchase, all of the Ads will be removed immediately." = "購入後、すべての広告はすぐに削除されます。";
+"The purchase is valid across different devices (iPhone, iPad, Mac) for the same Apple ID." = "購入は、同じApple IDのさまざまなデバイス (iPhone, iPad, Mac) で有効です。";
+"If users change a device or reinstall this App, restore purchase will store their previous purchase." = "ユーザーがデバイスを変更したり、このアプリを再インストールしたりすると、購入を復元すると以前の購入が保存されます。";
+
+/* 更多 Apps*/
+"More Apps" = "More アプリ";
+
+"Apps" = "Apps";
+
+"Check out more Apps made by us" = "他のアプリをチェックしてください";
+
+"Image Guru" = "Image Guru";
+"Photo Editor,Filter" = "フィルターアプリ,画像加工アプリ";
+
+"We Play Piano" = "We Play Piano";
+"Piano Keyboard" = "ピアノアプリ";
+
+"TripMark" = "TripMark";
+"Trip & Travel Planner" = "Trip & Travel Planner";
+
+"SwiftSum" = "SwiftSum";
+"Simple Calculator" = "電卓";
+
+"Yes Habit" = "Yes Habit";
+"Habit Tracker" = "habit tracker";
+
+"Relaxing_Up" = "Relaxing Up";
+"Meditation&Healing" = "瞑想,癒し,リラックス音楽";
+
+"Money Tracker" = "マネートラッカー";
+"Budget, Expense & Bill Planner" = "経費,予算プランナーとお金管理";
+
+"Ratios Go" = "Ratios Go";
+"Financial Ratios Go" = "Financial Ratios Go";
+"Finance, Ratios, Investing" = "ファイナンス, 財務分析, 株式投資";
+
+"Easy Unit" = "Easy Unit";
+"Unit-Conversion" = "単位換算アプリ";
+
+"BMI Diary" = "BMI 日記";
+"Fitness, Weight Loss &Health" = "BMI計算機 、肥満度指数& トラッカー";
+
+"Novels Hub" = "Novels Hub";
+"Fiction eBooks Library!" = "人気の本、洋書&物語";
+
+"World Weather Live" = "世界の天気予報";
+"All Cities" = "天気チャンネル";
+
+"Sudoku Lover" = "数独パズル";
+"Math Games" = "ナンバープレイス&推理ゲーム";
+
+"NASA Lover" = "Universe Lover";
+"Explore Space & Astronomy News" = "星,惑星, 宇宙&スペース";
+
+
+/* 反馈 */
+"Feedback" = "フィードバック";
+"Email" = "Email";
+"Facebook Page" = "Facebookページ";
+"Thanks for Your Feedback" = "ご意見ありがとうございます";
+"Send message to Apps Bay Facebook page" = "Facebookページにメッセージを送信する";
+"Write an email to appsbayarea@gmail.com" = "appsbayarea@gmail.comにメールを書く";
+
+/* App 专用 */
+"Adjust Dividend" = "Adjust Dividend";
+"After Market Close" = "After Market Close";
+"Annually" = "Annually";
+"Balance Sheet" = "Balance Sheet";
+"Balance Sheet Statement" = "Balance Sheet Statement";
+"Before Market Open" = "Before Market Open";
+"By Company" = "By Company";
+"By Date" = "By Date";
+
+"Cash Flow" = "Cash Flow";
+"Cash Flow Statement" = "Cash Flow Statement";
+"Change" = "Change";
+"Companies" = "Companies";
+"Company" = "Company";
+"Company Dashboard" = "Company Dashboard";
+"Company Name" = "Company Name";
+"Company News" = "Company News";
+"Company Profile" = "Company Profile";
+"Company Rating" = "Company Rating";
+"Company Symbol" = "Company Symbol";
+"Company Watch List" = "Company Watch List";
+"Company Watch List (Tap to show)" = "Company Watch List (Tap to show)";
+"Date" = "Date";
+"Date Reported" = "Date Reported";
+"Day" = "Day";
+"Day Stock Prices" = "Day Stock Prices";
+"Declaration Date" = "Declaration Date";
+"Denominator" = "Denominator";
+"Dividend" = "Dividend";
+"Dividend Calendar" = "Dividend Calendar";
+"Downloading" = "Downloading";
+"Earning Calendar" = "Earning Calendar";
+"Earnings Calendar" = "Earnings Calendar";
+"Enterprise Values" = "Enterprise Values";
+"Exchange" = "Exchange";
+"Financial Growth" = "Financial Growth";
+"Financial Ratios" = "Financial Ratios";
+"Financial Statements" = "Financial Statements";
+"Financial Statements Go" = "米国株の達人";
+"Fiscal Period" = "Fiscal Period";
+"Free Cash Flow Data" = "Free Cash Flow Data";
+"Holder" = "Holder";
+"Hour" = "Hour";
+"Hour Stock Prices" = "Hour Stock Prices";
+"IPO Calendar" = "IPO Calendar";
+"Income" = "Income";
+"Income Statement" = "Income Statement";
+"Industry" = "Industry";
+"Key Metrics" = "Key Metrics";
+"Loading the advertisement" = "Loading the advertisement";
+"Market Cap" = "Market Cap";
+"Minute" = "Minute";
+"Minute Stock Prices" = "Minute Stock Prices";
+"Net Cash Provided by Financing Activities" = "et Cash Provided by Financing Activities";
+"Net Cash Provided by Operating Activities" = "Net Cash Provided by Operating Activities";
+"Net Cash Used for Investing Activities Equity" = "Net Cash Used for Investing Activities Equity";
+"Net Income" = "Net Income";
+
+"Not Available" = "Not Available";
+"Numerator" = "Numerator";
+"Operating Income" = "Operating Income";
+"Payment Date" = "Payment Date";
+"Price Range" = "Price Range";
+"Quarterly" = "Quarterly";
+"Record Date" = "Record Date";
+"Revenue" = "Revenue";
+"RevenueTrue" = "Revenue";
+"Revenue Estimated" = "Revenue Estimated";
+"Search a Stock/Comapny/Index/Crypto/Fund/ETF/Forex" = "株式/企業/指数/仮想通貨/ファンド/ETF/外国為替を検索する";
+"Select a Company" = "Select a Company";
+"Select a Fiscal Period" = "Select a Fiscal Period";
+"Select a date or company" = "Select a date or company";
+"Shares" = "Shares";
+
+"Stock Prices" = "Stock Prices";
+"Stock Split Calendar" = "Stock Split Calendar";
+"Stock Split Ratio" = "Stock Split Ratio";
+"Time" = "Time";
+"Total Assets" = "Total Assets";
+"Total Liabilities" = "Total Liabilities";
+"Total Stockholders Equity" = "Total Stockholders Equity";
+"Unknown" = "Unknown";
+"Visualization" = "Visualization";
+"Website" = "Website";
+"companies in the watch list" = "companies in the watch list";
+
+"General" = "アプリについて";
+"Tools" = "ツール";
+"More Tools" = "その他のツール";
+"More tools are developing" = "より多くのツールが開発されています";
+"Financial Terms and Definition" = "財務用語の解説";
+"Search financial terms" = "財務用語を検索する";
+"Select Category" = "カテゴリを選択する";
+"Financial Definition" = "用語の説明";
+"All" = "すべて";
+"Basic" = "ベーシック";
+
+"Earning" = "Earning";
+"Stock Split" = "株式分割";
+"Show All" = "すべて";
+"Articles" = "記事";
+"Article" = "記事";
+"Symbol" = "証券コード";
+"EPS Estimated" = "予想EPS";
+"Ratio" = "Ratio";
+"Related Articles" = "関連記事";
+"Related Company" = "関連会社";
+"Related Stock News" = "関連ニュース";
+
+"IPO Date" = "IPO日付";
+"Full Time Employees" = "正社員";
+"Sector" = "セクター";
+"Country" = "国";
+"City" = "City";
+"Website" = "ウェブサイト";
+
+"Stock Peers" = "関連株";
+"The watchlist is empty" = "ウォッチリストは空です";
+"Tap" = "クリック";
+"to add" = "追加";
+
+"Pull to Reload" = "下へ引いてページをリロードする";
+"Network Error" = "ネットワークエラー";
+"4 Consecutive Quarters" = "4四半期連続";
+"8 Consecutive Quarters" = "8四半期連続";
+"All Fiscal Quarters" = "すべての四半期";
+"4 Consecutive Years" = "連続する4会計年度";
+"8 Consecutive Years" = "連続する8会計年度";
+"All Fiscal Years" = "すべての会計年度";
+"Select a Date" = "日付を選択してます";
+"vs" = "vs";
+"to" = "to";
+"Compare with previous" = "前期比較";
+"Current" = "現在";
+"Compare" = "比べる";
+"Stocks" = "株式";
+"Stock" = "株式";
+"Funds" = "投資信託";
+"Fund" = "投資信託";
+"Cryptocurrency" = "暗号通貨";
+"Cryptocurrencies" = "暗号通貨";
+"Crypto" = "暗号通貨";
+"Futures" = "先物";
+"Future" = "先物";
+"Index" = "株価指数";
+"Indexes" = "株価指数";
+"Major Indexes" = "主要株価指数";
+"Gainers" = "値上がり率";
+"Losers" = "値下がり率";
+"Related Cryptocurrency" = "関連の暗号通貨";
+"Watchlist" = "ポートフォリオ";
+"Single Quarter" = "四半期";
+"Single Year" = "会計年度";
+
+"S&P 500 Companies" = "S&P 500の会社";
+"Dow Jones Companies" = "ダウの会社";
+"Nasdaq 100 Companies" = "ナスダックの会社";
+
+"Stock News" = "株式ニュース";
+"News" = "ニュース";
+"No Data" = "データなし";
+"Most Actives" = "出来高";
+"More" = "もっと見る";
+"Calendars" = "カレンダー";
+"Home" = "ホームページ";
+
+"Historical Calendar" = "カレンダー";
+
+"Forex" = "外国為替";
+
+"Economic Calendar" = "経済カレンダ";
+"Economic" = "経済";
+"Search region or event" = "検索地域または経済指標";
+"Value" = "値";
+"Event" = "経済指標";
+"Region" = "地域";
+
+"Crypto News" = "暗号資産ニュース";
+"Forex News" = "外国為替ニュース";
+"Related Crypto News" = "関連する暗号資産ニュース";
+"Related Forex News" = "関連する外国為替ニュース";

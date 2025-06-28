@@ -1,0 +1,353 @@
+/*
+   Localizable.strings
+   Financial Statements Go
+
+   Created by Banghua Zhao on 6/22/20.
+   Copyright © 2020 Banghua Zhao. All rights reserved.
+ */
+
+/* setting 相關 */
+"Yes" = "是的";
+"Cancel" = "取消";
+
+"More" = "更多";
+
+"Thanks for Your Support" = "謝謝您的支持";
+
+"Clear Cache" = "清除緩存";
+"Do you want to clear cache" = "你想清除緩存嗎";
+
+"Share this App" = "分享這個應用";
+"Finance Go" = "美股財報通";
+
+"Support this App" = "支持這個應用";
+"Rate this App" = "給應用評分";
+"We will constantly optimize and maintain our App and make sure users have the best experience" = "我們的團隊會持續優化和維護此應用，希望給用戶帶來最好的體驗";
+"Do you want to watch an advertisement to support this App" = "看一個廣告支持一下這個應用";
+
+/* Ads */
+"More Apps (Ads)" = "更多應用 (廣告)";
+"The purchase is successful" = "購買成功";
+"The purchase is restored" = "商品已恢復";
+"The purchase is failed" = "購買失敗";
+"No product to be restored" = "沒有需要恢復購買的商品";
+"Restore purchase" = "恢復購買";
+"Remove Ads forever has been purchased" = "永久去廣告已購買";
+"Restoring purchase" = "恢復購買中";
+"Request failed" = "請求失敗";
+"Requesting the product" = "請求商品中";
+"Remove Ads" = "去廣告";
+"Remove this Ads forever" = "永久去除這個廣告";
+"Purchasing" = "購買中";
+"No Data" = "無數據";
+"Purchase Notes" = "購買須知";
+"After purchase, all of the Ads will be removed immediately." = "購買後，所有的廣告會立即被去除。";
+"The purchase is valid across different devices (iPhone, iPad, Mac) for the same Apple ID." = "該購買對同一 Apple ID 的不同設備 (iPhone, iPad, Mac) 都有效。";
+"If users change a device or reinstall this App, restore purchase will store their previous purchase." = "如果用戶更換了設備或者重新安裝了這個應用，恢復購買可以恢復之前的購買記錄。";
+
+/* 更多 Apps*/
+"More Apps" = "更多應用";
+
+"Apps" = "Apps";
+
+"Check out more Apps made by us" = "發現更多我們的 App";
+
+"Finance Go" = "美股財報通";
+
+"Image Guru" = "咕嚕濾鏡";
+"Photo Editor,Filter" = "多風格修圖,調色,相片編輯";
+
+"Easy Unit" = "易換算";
+"Unit-Conversion" = "單位換算器";
+
+"We Play Piano" = "彈鋼琴";
+"Piano Keyboard" = "鋼琴鍵盤&鋼琴練習app";
+
+"SwiftSum" = "極簡計算器";
+"Simple Calculator" = "加減乘除專業版";
+
+"TripMark" = "旅行規劃師";
+"Trip & Travel Planner" = "旅遊計劃，記錄與分享";
+
+"Yes Habit" = "簽簽習慣";
+"Habit Tracker" = "習慣追踪養成的自律激勵app";
+
+"Money Tracker" = "極簡記賬";
+"Budget, Expense & Bill Planner" = "預算管理&存錢計劃專家";
+
+"Ratios Go" = "財務比率計算器";
+"Financial Ratios Go" = "財務比率計算器";
+"Finance, Ratios, Investing" = "金融, 比率計算, 投資";
+
+"BMI Diary" = "BMI 日記";
+"Fitness, Weight Loss &Health" = "極簡健康減肥健身BMI記錄工具";
+
+"Novels Hub" = "英文小說站";
+"Fiction eBooks Library!" = "必讀英文電子書合集";
+
+"Universe Lover" = "天文迷";
+"Explore Space & Astronomy News" = "天文愛好者專屬的探索行星宇宙的天文指南";
+
+"Relaxing Up" = "冥想Up";
+"Meditation&Healing" = "放鬆減壓,深度睡眠專注力訓練";
+
+"World Weather Live" = "極簡天氣";
+"All Cities" = "覆蓋全球城市的實時天氣預報";
+
+"Water_Tracker" = "喝水吧";
+"Drink Water Log" = "每日喝水提醒小助手";
+
+"Sudoku Lover" = "數獨迷";
+"Math Games" = "九宮格數字邏輯解謎益智遊戲";
+
+/* 反饋 */
+"Feedback" = "反饋";
+"Email" = "電子郵件";
+"Facebook Page" = "Facebook Page";
+"Thanks for Your Feedback" = "謝謝您的反饋";
+"Send message to Apps Bay Facebook page" = "在 Apps Bay 的 Facebook page 留言";
+"Write an email to appsbayarea@gmail.com" = "給 appsbayarea@gmail.com 發電子郵件";
+
+/* App 專用 */
+"Adjust Dividend" = "調整後股息";
+"After Market Close" = "盤後";
+"Annually" = "年度";
+"Balance Sheet" = "資產負債表";
+"Balance Sheet Statement" = "資產負債表";
+"Before Market Open" = "盤前";
+"By Company" = "根據公司";
+"By Date" = "根據日期";
+"Calendars" = "日程表";
+"Cash Flow" = "現金流量表";
+"Cash Flow Statement" = "現金流量表";
+"Change" = "持股變化";
+"Companies" = "公司";
+"Company" = "公司";
+"Company Dashboard" = "公司信息欄";
+"Company Name" = "公司名稱";
+"Company News" = "公司新聞";
+"Company Profile" = "公司簡介";
+"Company Rating" = "公司評級";
+"Company Symbol" = "公司代號";
+"Company Watch List" = "公司收藏列表";
+"Company Watch List (Tap to show)" = "公司收藏列表 (點擊查看)";
+"Date" = "日期";
+"Date Reported" = "報告日期";
+"Day" = "天";
+"Day Stock Prices" = "股票價格（每天）";
+"Declaration Date" = "宣布日期";
+"Denominator" = "分母";
+"Dividend" = "股息分紅";
+"Dividend Calendar" = "股息分紅日曆";
+"Downloading" = "下載中";
+"Earning Calendar" = "財報日曆";
+"Earnings Calendar" = "財報日曆";
+"Enterprise Values" = "公司價值";
+"Exchange" = "交易所";
+"Financial Growth" = "財務增長";
+"Financial Ratios" = "財務比率";
+"Financial Statements" = "財務報表";
+"Financial Statements Go" = "美股財報通";
+"Fiscal Period" = "財務年度/季度";
+"Free Cash Flow Data" = "自由現金流數據";
+"Holder" = "持有者";
+"Hour" = "小時";
+"Hour Stock Prices" = "股票價格（每小時）";
+"IPO Calendar" = "IPO 日曆";
+"Income" = "利潤表";
+"Income Statement" = "利潤表";
+"Industry" = "產業";
+"Key Metrics" = "重要財務指標";
+"Loading the advertisement" = "廣告載入中";
+"Market Cap" = "市值";
+"Minute" = "分鐘";
+"Minute Stock Prices" = "股票價格（每分鐘）";
+"Net Cash Provided by Financing Activities" = "籌資活動現金流";
+"Net Cash Provided by Operating Activities" = "經營現金流";
+"Net Cash Used for Investing Activities Equity" = "投資活動現金流";
+"Net Income" = "淨利潤";
+"News" = "新聞";
+"No Data" = "無數據";
+"Not Available" = "無數據";
+"Numerator" = "分子";
+"Operating Income" = "經營收入";
+"Payment Date" = "支付日期";
+"Price Range" = "價格區間";
+"Quarterly" = "季度";
+"Record Date" = "記錄日期";
+"RevenueTrue" = "總收入";
+"Revenue Estimated" = "預計總收入";
+"Search a Stock/Comapny/Index/Crypto/Fund/ETF/Forex" = "搜尋美股代碼/公司/指數/加密貨幣/基金/外匯";
+"Select a Company" = "選擇一個公司";
+"Select a Fiscal Period" = "選擇一個財務年度/季度";
+"Select a date or company" = "選擇日期或者公司";
+"Shares" = "股數";
+"Stock News" = "股票新聞";
+"Stock Prices" = "股票價格";
+"Stock Split Calendar" = "拆股日曆";
+"Stock Split Ratio" = "拆股比率";
+"Time" = "時間";
+"Institutional Holders (Top 25)" = "持有機構（前25）";
+"Mutual Fund Holders (Top 25)" = "持有基金（前25）";
+"Total Assets" = "總資產";
+"Total Liabilities" = "總負債";
+"Total Stockholders Equity" = "總股東權益";
+"Unknown" = "未知";
+"Visualization" = "可視化";
+"Website" = "網站";
+"companies in the watch list" = "個公司被收藏";
+"Stock Exchanges" = "證券交易所";
+"Revenue" = "收入項目";
+"Expenses" = "費用項目";
+"Others" = "其他";
+"Assets" = "資產";
+"Liability" = "負債";
+"Equity" = "所有者權益";
+"Cash Flow from Operations" = "經營活動現金流";
+"Cash Flow from Investing" = "投資活動現金流";
+"Cash Flow from Financing" = "籌資活動現金流";
+"Net Increase/Decrease In Cash" = "現金淨增加/減少額";
+"Stock news updated at" = "股票新聞更新於";
+"Earning Call Transcript" = "財報電話會議記錄";
+"Quarter" = "季度";
+"Year" = "年份";
+"Content" = "內容";
+"Stock Insider Trading" = "股票內線交易";
+"By Securities Transacted" = "根據 Securities Transacted";
+"Sort" = "排序";
+
+"General" = "通用";
+"Tools" = "工具";
+"More Tools" = "更多工具";
+"More tools are developing" = "正在開發更多的工具";
+"Financial Terms and Definition" = "財務報表術語說明";
+"Search financial terms" = "搜索財務報表術語";
+"Select Category" = "選擇類別";
+"Financial Definition" = "術語解釋";
+"All" = "全部";
+"Basic" = "基礎";
+
+"Watchlist added" = "追蹤清單添加了";
+"Watch list removed" = "追蹤清單刪除了";
+
+"Most Actives" = "最活躍";
+"Most Gainer" = "最大升幅";
+"Most Loser" = "最大跌幅";
+"Earning" = "財報業績";
+"Stock Split" = "拆股";
+"Show All" = "全部";
+"Articles" = "財經資訊";
+"Article" = "財經資訊";
+"Symbol" = "股票代號";
+"EPS Estimated" = "預期EPS";
+"Ratio" = "比率";
+"Related Articles" = "相關文章";
+"Related Company" = "相關公司";
+"Related Stock News" = "相關股票新聞";
+
+"New Version" = "新版本";
+"Update to the latest version" = "更新到最新版本";
+"Trending" = "今日熱門";
+"History" = "歷史記錄";
+"Home" = "主页";
+"Drag and drop to move company" = "拖拽移動公司";
+"Select a Stock Exchange" = "選擇一個股票交易所";
+
+"Today" = "今日";
+"Past Week" = "過去一周";
+"Past Month" = "過去一個月";
+"Past 3 Months" = "過去三個月";
+"Past Year" = "過去一年";
+"Past 5 Years" = "過去五年";
+"All Time" = "全部";
+
+"IPO Date" = "IPO日期";
+"Full Time Employees" = "全職僱員";
+"Sector" = "行業";
+"Country" = "國家";
+"City" = "城市";
+"Address" = "地址";
+
+"Open" = "開市";
+"Volume" = "成交量";
+"Average Volume" = "平均成交量";
+"Day High" = "今日最高價";
+"Day Low" = "今日最低價";
+"Market Cap" = "市值";
+"Year High" = "一年最高價";
+"Year Low" = "一年最低價";
+"50-Day Moving Avg" = "50日均價";
+"200-Day Moving Avg" = "200日均價";
+
+"Stock Peers" = "相關股票";
+"The watchlist is empty" = "追蹤清單為空";
+"Tap" = "點擊";
+"to add" = "添加";
+"Discounted Cash Flow" = "現金流量折現";
+
+"Real Time" = "即時";
+"Daily" = "每日";
+"Institutional" = "機構";
+"Mutual Fund" = "互惠基金";
+"Holders" = "持有人";
+"Upgrades & Downgrades" = "評級調升 & 調降";
+"Upgrade" = "評級上調";
+"Maintains" = "保持評級";
+"Downgrade" = "評級下降";
+"Initiated" = "首次評級";
+"Grading Company" = "評級機構";
+"Grade" = "評級";
+
+"Pull to Reload" = "下拉加載";
+"Network Error" = "網絡錯誤";
+"4 Consecutive Quarters" = "4個連續季度";
+"8 Consecutive Quarters" = "8個連續季度";
+"All Fiscal Quarters" = "所有季度";
+"4 Consecutive Years" = "4個連續財年";
+"8 Consecutive Years" = "8個連續財年";
+"All Fiscal Years" = "所有財年";
+"Select a Date" = "選擇日期";
+"vs" = "對比";
+"to" = "到";
+"Compare with previous" = "與上一個同期相比";
+"Current" = "當前";
+"Compare" = "對比";
+"Stocks" = "股票";
+"Stock" = "股票";
+"Funds" = "互惠基金";
+"Fund" = "互惠基金";
+"Cryptocurrency" = "加密貨幣";
+"Cryptocurrencies" = "加密貨幣";
+"Crypto" = "加密貨幣";
+"Futures" = "期貨";
+"Future" = "期貨";
+"Index" = "指數";
+"Indexes" = "指數";
+"Major Indexes" = "主要指數";
+"Gainers" = "升幅";
+"Losers" = "跌幅";
+"Related Cryptocurrency" = "相關加密貨幣";
+"Watchlist" = "追蹤清單";
+"Single Quarter" = "單個季度";
+"Single Year" = "單個財年";
+
+"S&P 500 Companies" = "標普500公司";
+"Dow Jones Companies" = "道瓊斯公司";
+"Nasdaq 100 Companies" = "那斯達克公司";
+
+"Surprise" = "盈利不符預測";
+"Historical Calendar" = "日程表";
+
+"Forex" = "外匯";
+
+"Economic Calendar" = "經濟日曆";
+"Economic" = "經濟";
+"Search region or event" = "搜索地區或經濟指標";
+"Value" = "數值";
+"Event" = "經濟指標";
+"Region" = "地區";
+
+"Crypto News" = "加密貨幣新聞";
+"Forex News" = "外匯市場新聞";
+"Related Crypto News" = "相關加密貨幣新聞";
+"Related Forex News" = "相關匯率新聞";

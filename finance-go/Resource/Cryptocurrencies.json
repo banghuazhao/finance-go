@@ -1,0 +1,2155 @@
+[ {
+	  "symbol" : "BIPUSD",
+	  "name" : "MinterNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "OBSRUSD",
+	  "name" : "Observer USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ECCUSD",
+	  "name" : "ECC USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CCAUSD",
+	  "name" : "CounosCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LOKIUSD",
+	  "name" : "Loki USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ALGOUSD",
+	  "name" : "Algorand USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CLAMUSD",
+	  "name" : "Clams USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GLMUSD",
+	  "name" : "Golem USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NIMUSD",
+	  "name" : "Nimiq USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZANOUSD",
+	  "name" : "Zano USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VLXUSD",
+	  "name" : "Velas USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "KRTUSD",
+	  "name" : "TerraKRW USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MRXUSD",
+	  "name" : "MetrixCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BANDUSD",
+	  "name" : "BandProtocol USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GRNUSD",
+	  "name" : "GreenPower USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FRONTUSD",
+	  "name" : "Frontier USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ATRIUSD",
+	  "name" : "AtariToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HYCUSD",
+	  "name" : "HYCON USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ERGUSD",
+	  "name" : "Ergo USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MINTUSD",
+	  "name" : "MintCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XBYUSD",
+	  "name" : "XTRABYTES USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RLCUSD",
+	  "name" : "iExec RLC USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AVAXUSD",
+	  "name" : "Avalanche USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VGXUSD",
+	  "name" : "VoyagerToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "KAVAUSD",
+	  "name" : "Kava USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DEROUSD",
+	  "name" : "Dero USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FSNUSD",
+	  "name" : "Fusion USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "COMPUSD",
+	  "name" : "Compound USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HNSUSD",
+	  "name" : "Handshake USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BEPROUSD",
+	  "name" : "BetProtocol USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SRMUSD",
+	  "name" : "Serum USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SCUSD",
+	  "name" : "Siacoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GNOUSD",
+	  "name" : "Gnosis USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "EOSUSD",
+	  "name" : "EOS USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NLC2USD",
+	  "name" : "NoLimitCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZENUSD",
+	  "name" : "Horizen USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FAIRUSD",
+	  "name" : "FairCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MCOUSD",
+	  "name" : "MCO USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BLOCKUSD",
+	  "name" : "Blocknet USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LRCUSD",
+	  "name" : "Loopring USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XRPUSD",
+	  "name" : "XRP USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LTCUSD",
+	  "name" : "Litecoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ANTUSD",
+	  "name" : "Aragon USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GBYTEUSD",
+	  "name" : "Obyte USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GAMEUSD",
+	  "name" : "GameCredits USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XEMUSD",
+	  "name" : "NEM USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FCTUSD",
+	  "name" : "Factom USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GASUSD",
+	  "name" : "Gas USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SMARTUSD",
+	  "name" : "SmartCash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XVGUSD",
+	  "name" : "Verge USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ADXUSD",
+	  "name" : "AdEx Network USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WTCUSD",
+	  "name" : "Waltonchain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PPTUSD",
+	  "name" : "Populous USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "IOCUSD",
+	  "name" : "I/O Coin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LKKUSD",
+	  "name" : "Lykke USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SUBUSD",
+	  "name" : "Substratum USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NEBLUSD",
+	  "name" : "Neblio USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XLMUSD",
+	  "name" : "Stellar USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DASHUSD",
+	  "name" : "Dash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MGOUSD",
+	  "name" : "MobileGo USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DCRUSD",
+	  "name" : "Decred USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ETHUSD",
+	  "name" : "Ethereum USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SYSUSD",
+	  "name" : "Syscoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FRSTUSD",
+	  "name" : "FirstCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PAYUSD",
+	  "name" : "TenX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SNMUSD",
+	  "name" : "SONM USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MLNUSD",
+	  "name" : "Melon USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ICXUSD",
+	  "name" : "ICON USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NAVUSD",
+	  "name" : "NavCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CVCUSD",
+	  "name" : "Civic USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BTSUSD",
+	  "name" : "BitShares USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VERIUSD",
+	  "name" : "Veritaseum USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SNTUSD",
+	  "name" : "Status USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BNTUSD",
+	  "name" : "Bancor USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LSKUSD",
+	  "name" : "Lisk USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SNGLSUSD",
+	  "name" : "SingularDTV USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NXSUSD",
+	  "name" : "Nexus USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DCNUSD",
+	  "name" : "Dentacoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ARDRUSD",
+	  "name" : "Ardor USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "KMDUSD",
+	  "name" : "Komodo USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FUNUSD",
+	  "name" : "FunFair USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DGDUSD",
+	  "name" : "DigixDAO USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "QASHUSD",
+	  "name" : "QASH USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DOGEUSD",
+	  "name" : "Dogecoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PIVXUSD",
+	  "name" : "PIVX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VTCUSD",
+	  "name" : "Vertcoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WINGSUSD",
+	  "name" : "Wings USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "OMGUSD",
+	  "name" : "OMG Network USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "KINUSD",
+	  "name" : "Kin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BTCUSD",
+	  "name" : "Bitcoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SALTUSD",
+	  "name" : "SALT USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XMRUSD",
+	  "name" : "Monero USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "EDGUSD",
+	  "name" : "Edgeless USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WAVESUSD",
+	  "name" : "Waves USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MCAPUSD",
+	  "name" : "MCAP USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "QTUMUSD",
+	  "name" : "Qtum USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ADAUSD",
+	  "name" : "Cardano USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DGBUSD",
+	  "name" : "DigiByte USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LINKUSD",
+	  "name" : "Chainlink USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MTLUSD",
+	  "name" : "Metal USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ARKUSD",
+	  "name" : "Ark USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DNTUSD",
+	  "name" : "district0x USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TRXUSD",
+	  "name" : "TRON USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BCNUSD",
+	  "name" : "Bytecoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MAIDUSD",
+	  "name" : "MaidSafeCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "UBQUSD",
+	  "name" : "Ubiq USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MONAUSD",
+	  "name" : "MonaCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NXTUSD",
+	  "name" : "Nxt USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "STORJUSD",
+	  "name" : "Storj USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "REPUSD",
+	  "name" : "Augur USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "QRLUSD",
+	  "name" : "Quantum Resistant Ledger USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "USDTUSD",
+	  "name" : "Tether USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AEUSD",
+	  "name" : "Aeternity USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "STEEMUSD",
+	  "name" : "Steem USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZRXUSD",
+	  "name" : "0x USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PARTUSD",
+	  "name" : "Particl USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "EMC2USD",
+	  "name" : "Einsteinium USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XUCUSD",
+	  "name" : "Exchange Union USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "KNCUSD",
+	  "name" : "Kyber Network USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BATUSD",
+	  "name" : "Basic Attention Token USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BNBUSD",
+	  "name" : "Binance Coin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ETCUSD",
+	  "name" : "Ethereum Classic USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ETPUSD",
+	  "name" : "Metaverse ETP USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XCPUSD",
+	  "name" : "Counterparty USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZECUSD",
+	  "name" : "Zcash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XRCUSD",
+	  "name" : "BitcoinRhodium USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BONOUSD",
+	  "name" : "Bonorum USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ATBUSD",
+	  "name" : "ATBCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NEOUSD",
+	  "name" : "Neo USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ARUSD",
+	  "name" : "Arweave USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BCAUSD",
+	  "name" : "BitcoinAtom USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GXCUSD",
+	  "name" : "GXChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "IOSTUSD",
+	  "name" : "IOST USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FTMUSD",
+	  "name" : "Fantom USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "REVUSD",
+	  "name" : "RChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RINGXUSD",
+	  "name" : "RINGXPLATFORM USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CROUSD",
+	  "name" : "CryptocomCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HBARUSD",
+	  "name" : "HederaHashgraph USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RDDUSD",
+	  "name" : "ReddCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FIOUSD",
+	  "name" : "FIOProtocol USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XDCUSD",
+	  "name" : "XinFinNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "OUROUSD",
+	  "name" : "Ouroboros USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NUUSD",
+	  "name" : "NuCypher USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DIMEUSD",
+	  "name" : "Dimecoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DACCUSD",
+	  "name" : "DACC USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ADKUSD",
+	  "name" : "AidosKuneen USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SLSUSD",
+	  "name" : "SaluS USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ROSEUSD",
+	  "name" : "OasisNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PHAUSD",
+	  "name" : "PhalaNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BCHUSD",
+	  "name" : "Bitcoin Cash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BTGUSD",
+	  "name" : "Bitcoin Gold USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XMCUSD",
+	  "name" : "MoneroClassic USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VBKUSD",
+	  "name" : "VeriBlock USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ENJUSD",
+	  "name" : "EnjinCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MKRUSD",
+	  "name" : "Maker USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WGRUSD",
+	  "name" : "Wagerr USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VEXUSD",
+	  "name" : "Vexanium USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PZMUSD",
+	  "name" : "PRIZM USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HNCUSD",
+	  "name" : "Helleniccoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "UMAUSD",
+	  "name" : "UMA USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CTSIUSD",
+	  "name" : "Cartesi USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TOMOUSD",
+	  "name" : "TomoChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GRINUSD",
+	  "name" : "Grin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NULSUSD",
+	  "name" : "NULS USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XWCUSD",
+	  "name" : "WhiteCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XMYUSD",
+	  "name" : "Myriad USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "METAUSD",
+	  "name" : "Metadium USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TRUEUSD",
+	  "name" : "TrueChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XASUSD",
+	  "name" : "Asch USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "OMIUSD",
+	  "name" : "ECOMI USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SOLVEUSD",
+	  "name" : "SOLVE USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SCPUSD",
+	  "name" : "ScPrime USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CAKEUSD",
+	  "name" : "PancakeSwap USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "COLXUSD",
+	  "name" : "ColossusXT USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AXELUSD",
+	  "name" : "AXEL USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GRSUSD",
+	  "name" : "Groestlcoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BSTUSD",
+	  "name" : "BlockStamp USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "YFIUSD",
+	  "name" : "yearnfinance USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MIOTAUSD",
+	  "name" : "IOTA USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FTXUSD",
+	  "name" : "FintruXNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BEAMUSD",
+	  "name" : "Beam USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RVNUSD",
+	  "name" : "Ravencoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ANKRUSD",
+	  "name" : "Ankr USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZYNUSD",
+	  "name" : "Zynecoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CRUUSD",
+	  "name" : "Crust USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "QNTUSD",
+	  "name" : "Quant USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PAIUSD",
+	  "name" : "ProjectPai USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PIUSD",
+	  "name" : "PCHAIN USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CCXXUSD",
+	  "name" : "CounosX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LBCUSD",
+	  "name" : "LBRYCredits USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NMRUSD",
+	  "name" : "Numeraire USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MIDASUSD",
+	  "name" : "Midas USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DCYUSD",
+	  "name" : "Dinastycoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "JDCUSD",
+	  "name" : "JDCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DFIUSD",
+	  "name" : "DeFiChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CKBUSD",
+	  "name" : "NervosNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TUBEUSD",
+	  "name" : "BitTube USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SBDUSD",
+	  "name" : "SteemDollars USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BSVUSD",
+	  "name" : "BitcoinSV USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ERKUSD",
+	  "name" : "EurekaCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "STMXUSD",
+	  "name" : "StormX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BTC2USD",
+	  "name" : "Bitcoin2 USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "UNOUSD",
+	  "name" : "Unobtanium USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CRWUSD",
+	  "name" : "Crown USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "OTOUSD",
+	  "name" : "OTOCASH USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DMDUSD",
+	  "name" : "Diamond USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HIVEUSD",
+	  "name" : "Hive USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WAXPUSD",
+	  "name" : "WAX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FLASHUSD",
+	  "name" : "Flash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZELUSD",
+	  "name" : "ZelCash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CUDOSUSD",
+	  "name" : "Cudos USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HTDFUSD",
+	  "name" : "OrientWalt USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GRCUSD",
+	  "name" : "GridCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SHIBUSD",
+	  "name" : "SHIBA INU USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "KSMUSD",
+	  "name" : "Kusama USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AMBUSD",
+	  "name" : "Ambrosus USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RAYUSD",
+	  "name" : "Raydium USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "THETAUSD",
+	  "name" : "THETA USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VIAUSD",
+	  "name" : "Viacoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DTEPUSD",
+	  "name" : "DECOIN USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "EWTUSD",
+	  "name" : "EnergyWebToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FTCUSD",
+	  "name" : "Feathercoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DUNUSD",
+	  "name" : "DuneNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "USNBTUSD",
+	  "name" : "NuBits USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BDXUSD",
+	  "name" : "Beldex USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HEXUSD",
+	  "name" : "HEX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "KDAUSD",
+	  "name" : "Kadena USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SUSHIUSD",
+	  "name" : "Sushi USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FIROUSD",
+	  "name" : "Firo USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CELRUSD",
+	  "name" : "CelerNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SPHRUSD",
+	  "name" : "Sphere USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "POLISUSD",
+	  "name" : "Polis USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TUSDUSD",
+	  "name" : "TrueUSD USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ARRRUSD",
+	  "name" : "PirateChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DDKUSD",
+	  "name" : "DDKoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZILUSD",
+	  "name" : "Zilliqa USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AIBUSD",
+	  "name" : "AdvancedInternetBlocks USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SNXUSD",
+	  "name" : "SynthetixNetworkToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XTZUSD",
+	  "name" : "Tezos USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AIONUSD",
+	  "name" : "Aion USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LRGUSD",
+	  "name" : "LargoCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FLOUSD",
+	  "name" : "FLO USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AAVEUSD",
+	  "name" : "Aave USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ECAUSD",
+	  "name" : "Electra USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TFUELUSD",
+	  "name" : "ThetaFuel USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NIXUSD",
+	  "name" : "NIX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NYZOUSD",
+	  "name" : "Nyzo USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AVAUSD",
+	  "name" : "Travalacom USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "YOYOWUSD",
+	  "name" : "YOYOW USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VSYSUSD",
+	  "name" : "VSystems USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "IRISUSD",
+	  "name" : "IRISnet USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MHCUSD",
+	  "name" : "MetaHash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "IDNAUSD",
+	  "name" : "Idena USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SOL1USD",
+	  "name" : "Solana USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PMEERUSD",
+	  "name" : "Pmeer USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ACTUSD",
+	  "name" : "Achain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MANAUSD",
+	  "name" : "Decentraland USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WOZXUSD",
+	  "name" : "EFFORCE USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MASSUSD",
+	  "name" : "Massnet USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SKYUSD",
+	  "name" : "Skycoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ELAUSD",
+	  "name" : "Elastos USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SRKUSD",
+	  "name" : "Sparkpoint USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ALIASUSD",
+	  "name" : "Alias USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PCXUSD",
+	  "name" : "ChainX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NKNUSD",
+	  "name" : "NKN USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FILUSD",
+	  "name" : "FilecoinFutures USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RBTCUSD",
+	  "name" : "RSKSmartBitcoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BALUSD",
+	  "name" : "Balancer USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SEROUSD",
+	  "name" : "SuperZero USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NANOUSD",
+	  "name" : "Nano USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AXSUSD",
+	  "name" : "AxieInfinity USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MIRUSD",
+	  "name" : "MIRCOIN USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CTXCUSD",
+	  "name" : "Cortex USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GHOSTUSD",
+	  "name" : "GHOSTPRISM USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ZNNUSD",
+	  "name" : "Zenon USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MATICUSD",
+	  "name" : "MaticNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WANUSD",
+	  "name" : "Wanchain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CETUSD",
+	  "name" : "CoinExToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TRTLUSD",
+	  "name" : "TurtleCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BTXUSD",
+	  "name" : "Bitcore USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NLGUSD",
+	  "name" : "Gulden USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NRGUSD",
+	  "name" : "Energi USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "LCCUSD",
+	  "name" : "LitecoinCash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SXPUSD",
+	  "name" : "Swipe USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VRAUSD",
+	  "name" : "Verasity USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NVTUSD",
+	  "name" : "NerveNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DMCHUSD",
+	  "name" : "DARMACash USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TERAUSD",
+	  "name" : "TERA USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XSTUSD",
+	  "name" : "Stealth USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CHZUSD",
+	  "name" : "Chiliz USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SANDUSD",
+	  "name" : "TheSandbox USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ABBCUSD",
+	  "name" : "ABBCCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "OXTUSD",
+	  "name" : "Orchid USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HPBUSD",
+	  "name" : "HighPerformanceBlockchain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BHD-USD",
+	  "name" : "BitcoinHD USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DYNUSD",
+	  "name" : "Dynamic USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CSCUSD",
+	  "name" : "CasinoCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TTUSD",
+	  "name" : "ThunderToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CELOUSD",
+	  "name" : "Celo USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "TWTUSD",
+	  "name" : "TrustWalletToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AEONUSD",
+	  "name" : "Aeon USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XHVUSD",
+	  "name" : "HavenProtocol USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ETNUSD",
+	  "name" : "Electroneum USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PHRUSD",
+	  "name" : "Phore USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XSNUSD",
+	  "name" : "Stakenet USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MBCUSD",
+	  "name" : "MicroBitcoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "FETUSD",
+	  "name" : "Fetch USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "AYAUSD",
+	  "name" : "Aryacoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CUTUSD",
+	  "name" : "CUTcoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DAGUSD",
+	  "name" : "Constellation USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "POAUSD",
+	  "name" : "POANetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MWCUSD",
+	  "name" : "MimbleWimbleCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "DIVIUSD",
+	  "name" : "Divi USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "EGLDUSD",
+	  "name" : "Elrond USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "COTIUSD",
+	  "name" : "COTI USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "APLUSD",
+	  "name" : "ApolloCurrency USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "USDCUSD",
+	  "name" : "USDCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CUREUSD",
+	  "name" : "Curecoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NMCUSD",
+	  "name" : "Namecoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BPSUSD",
+	  "name" : "BitcoinPoS USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SAPPUSD",
+	  "name" : "Sapphire USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MAROUSD",
+	  "name" : "Maro USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VITEUSD",
+	  "name" : "VITE USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GOUSD",
+	  "name" : "GoChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BHPUSD",
+	  "name" : "BHPCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BLKUSD",
+	  "name" : "BlackCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "QRKUSD",
+	  "name" : "Quark USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ONTUSD",
+	  "name" : "Ontology USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WABIUSD",
+	  "name" : "Tael USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "OWCUSD",
+	  "name" : "ODUWA USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "IOTXUSD",
+	  "name" : "IoTeX USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NYEUSD",
+	  "name" : "NewYorkExchange USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VINUSD",
+	  "name" : "VINchain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MEDUSD",
+	  "name" : "MediBlocQRC20 USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "MANUSD",
+	  "name" : "MatrixAINetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SKLUSD",
+	  "name" : "SKALENetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XLTUSD",
+	  "name" : "Nexalt USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RSRUSD",
+	  "name" : "ReserveRights USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "BCDUSD",
+	  "name" : "BitcoinDiamond USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "WICCUSD",
+	  "name" : "WaykiChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "ILCUSD",
+	  "name" : "ILCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CELUSD",
+	  "name" : "Celsius USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "HTMLUSD",
+	  "name" : "HTMLCOIN USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PACUSD",
+	  "name" : "PACGlobal USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XNCUSD",
+	  "name" : "XeniosCoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "INSTARUSD",
+	  "name" : "InsightsNetwork USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VETUSD",
+	  "name" : "VeChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RUNEUSD",
+	  "name" : "THORChain USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "STRAXUSD",
+	  "name" : "Stratis USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "NASUSD",
+	  "name" : "Nebulas USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "PPCUSD",
+	  "name" : "Peercoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CLVUSD",
+	  "name" : "Clover USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "INTUSD",
+	  "name" : "InternetNodeToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "GLEECUSD",
+	  "name" : "Gleec USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "SFTUSD",
+	  "name" : "SafexToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "XDNUSD",
+	  "name" : "DigitalNote USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "RBYUSD",
+	  "name" : "Rubycoin USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "CHIUSD",
+	  "name" : "Xaya USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  }, {
+	  "symbol" : "VTHOUSD",
+	  "name" : "VeThorToken USD",
+	  "currency" : "USD",
+	  "stockExchange" : "CCC",
+	  "exchangeShortName" : "CRYPTO"
+  } ]

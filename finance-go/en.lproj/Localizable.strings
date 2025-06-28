@@ -1,0 +1,136 @@
+/*
+  Localizable.strings
+  Financial Statements Go
+
+  Created by Banghua Zhao on 6/22/20.
+  Copyright © 2020 Banghua Zhao. All rights reserved.
+*/
+
+/* setting 相关 */
+"Yes" = "Yes";
+"Cancel" = "Cancel";
+"More" = "More";
+"Thanks for Your Support" = "Thanks for Your Support";
+"Finance Go" = "Finance Go";
+"Clear Cache" = "Clear Cache";
+"Do you want to clear cache" = "Do you want to clear cache";
+"Share this App" = "Share this App";
+"Support this App" = "Support this App";
+"Rate this App" = "Rate this App";
+"We will constantly optimize and maintain our App and make sure users have the best experience" = "We will constantly optimize and maintain our App and make sure users have the best experience";
+"Do you want to watch an advertisement to support this App" = "Do you want to watch an advertisement to support this App";
+
+/* 更多 Apps*/
+"Countdown Days" = "Countdown Days";
+"Events, Anniversary & Big Days" = "Events, Anniversary & Big Days";
+"Money Tracker" = "Money Tracker";
+"Budget, Expense & Bill Planner" = "Budget, Expense & Bill Planner";
+"Financial Ratios Go" = "Financial Ratios Go";
+"Finance, Ratios, Investing" = "Finance, Ratios, Investing";
+"More Apps" = "More Apps";
+"Check out more Apps made by us" = "Check out more Apps made by us";
+"Ratios Go (macOS App)" = "Ratios Go (macOS App)";
+"Easy Unit" = "Easy Unit";
+"TripMark" = "TripMark";
+"SwiftSum" = "SwiftSum";
+
+
+/* 反馈 */
+"Feedback" = "Feedback";
+"Email" = "Email";
+"Facebook Page" = "Facebook Page";
+"Thanks for Your Feedback" = "Thanks for Your Feedback";
+"Send message to Apps Bay Facebook page" = "Send message to Apps Bay Facebook page";
+"Write an email to appsbayarea@gmail.com" = "Write an email to appsbayarea@gmail.com";
+
+/* App 专用 */
+"Adjust Dividend" = "Adjust Dividend";
+"After Market Close" = "After Market Close";
+"Annually" = "Annually";
+"Balance Sheet" = "Balance Sheet";
+"Balance Sheet Statement" = "Balance Sheet Statement";
+"Before Market Open" = "Before Market Open";
+"By Company" = "By Company";
+"By Date" = "By Date";
+"Calendars" = "Calendars";
+"Cash Flow" = "Cash Flow";
+"Cash Flow Statement" = "Cash Flow Statement";
+"Change" = "Change";
+"Companies" = "Companies";
+"Company" = "Company";
+"Company Dashboard" = "Company Dashboard";
+"Company Name" = "Company Name";
+"Company News" = "Company News";
+"Company Profile" = "Company Profile";
+"Company Rating" = "Company Rating";
+"Company Symbol" = "Company Symbol";
+"Company Watch List (Tap to show)" = "Company Watch List (Tap to show)";
+"Date" = "Date";
+"Date Reported" = "Date Reported";
+"Day" = "Day";
+"Day Stock Prices" = "Day Stock Prices";
+"Declaration Date" = "Declaration Date";
+"Denominator" = "Denominator";
+"Dividend" = "Dividend";
+"Dividend Calendar" = "Dividend Calendar";
+"Downloading" = "Downloading";
+"Earning Calendar" = "Earning Calendar";
+"Earnings Calendar" = "Earnings Calendar";
+"Enterprise Values" = "Enterprise Values";
+"Exchange" = "Exchange";
+"Financial Growth" = "Financial Growth";
+"Financial Ratios" = "Financial Ratios";
+"Financial Statements" = "Financial Statements";
+"Financial Statements Go" = "Financial Statements Go";
+"Fiscal Period" = "Fiscal Period";
+"Free Cash Flow Data" = "Free Cash Flow Data";
+"Holder" = "Holder";
+"Hour" = "Hour";
+"Hour Stock Prices" = "Hour Stock Prices";
+"IPO Calendar" = "IPO Calendar";
+"Income" = "Income";
+"Income Statement" = "Income Statement";
+"Industry" = "Industry";
+"Key Metrics" = "Key Metrics";
+"Loading the advertisement" = "Loading the advertisement";
+"Market Cap" = "Market Cap";
+"Minute" = "Minute";
+"Minute Stock Prices" = "Minute Stock Prices";
+"Net Cash Provided by Financing Activities" = "Net Cash Provided by Financing Activities";
+"Net Cash Provided by Operating Activities" = "Net Cash Provided by Operating Activities";
+"Net Cash Used for Investing Activities Equity" = "Net Cash Used for Investing Activities Equity";
+"Net Income" = "Net Income";
+"News" = "News";
+"No Data" = "No Data";
+"Not Available" = "Not Available";
+"Numerator" = "Numerator";
+"Operating Income" = "Operating Income";
+"Payment Date" = "Payment Date";
+"Price Range" = "Price Range";
+"Quarterly" = "Quarterly";
+"Record Date" = "Record Date";
+"Revenue" = "Revenue";
+"RevenueTrue" = "Revenue";
+"Revenue Estimated" = "Revenue Estimated";
+"Search a Stock/Comapny/Index/Crypto/Fund/ETF/Forex" = "Search a Stock/Comapny/Index/Crypto/Fund/ETF/Forex";
+"Select a Company" = "Select a Company";
+"Select a Fiscal Period" = "Select a Fiscal Period";
+"Select a date or company" = "Select a date or company";
+"Shares" = "Shares";
+"Stock News" = "Stock News";
+"Stock Prices" = "Stock Prices";
+"Stock Split Calendar" = "Stock Split Calendar";
+"Stock Split Ratio" = "Stock Split Ratio";
+"Time" = "Time";
+"Total Assets" = "Total Assets";
+"Total Liabilities" = "Total Liabilities";
+"Total Stockholders Equity" = "Total Stockholders Equity";
+"Unknown" = "Unknown";
+"Visualization" = "Visualization";
+"Website" = "Website";
+"companies in the watch list" = "companies in the watch list";
+
+"Crypto News" = "Crypto News";
+"Forex News" = "Forex News";
+"Related Crypto News" = "Related Crypto News";
+"Related Forex News" = "Related Forex News";

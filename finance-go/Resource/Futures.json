@@ -1,0 +1,181 @@
+[ {
+	  "symbol" : "KCUSX",
+	  "name" : "Coffee Jul 21",
+	  "currency" : "USX",
+	  "stockExchange" : "NYBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "GCUSD",
+	  "name" : "Gold Jun 21",
+	  "currency" : "USD",
+	  "stockExchange" : "COMMODITY",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "LBS=F",
+	  "name" : "Random Length Lumber Futures",
+	  "currency" : "USD",
+	  "stockExchange" : "CME",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "HOUSD",
+	  "name" : "Heating Oil May 21",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "PLUSD",
+	  "name" : "Platinum Jul 21",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "NGUSD",
+	  "name" : "Natural Gas May 21",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "FCUSX",
+	  "name" : "Feeder Cattle Jan 21",
+	  "currency" : "USX",
+	  "stockExchange" : "CME",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "LHUSX",
+	  "name" : "Lean Hogs Feb 21",
+	  "currency" : "USX",
+	  "stockExchange" : "CME",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "B0USD",
+	  "name" : "Mont Belvieu LDH Propane (OPIS)",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "CLUSD",
+	  "name" : "Crude Oil May 21",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "CCUSD",
+	  "name" : "Cocoa Jul 21",
+	  "currency" : "USD",
+	  "stockExchange" : "NYBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "BZUSD",
+	  "name" : "Brent Crude Oil Last Day Financ",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "BOUSX",
+	  "name" : "Soybean Oil Mar 21",
+	  "currency" : "USX",
+	  "stockExchange" : "CBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "PAUSD",
+	  "name" : "Palladium Jun 21",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "CTUSX",
+	  "name" : "Cotton Jul 21",
+	  "currency" : "USX",
+	  "stockExchange" : "NYBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "SMUSD",
+	  "name" : "Soybean Meal Mar 21",
+	  "currency" : "USD",
+	  "stockExchange" : "CBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "CUSX",
+	  "name" : "Corn Mar 21",
+	  "currency" : "USX",
+	  "stockExchange" : "CBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "ZIUSD",
+	  "name" : "Silver 5000 oz. May 20",
+	  "currency" : "USD",
+	  "stockExchange" : "COMMODITY",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "SUSX",
+	  "name" : "Soybeans Mar 21",
+	  "currency" : "USX",
+	  "stockExchange" : "CBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "RBUSD",
+	  "name" : "RBOB Gasoline May 21",
+	  "currency" : "USD",
+	  "stockExchange" : "NY Mercantile",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "SIUSD",
+	  "name" : "Silver May 21",
+	  "currency" : "USD",
+	  "stockExchange" : "COMMODITY",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "LCUSX",
+	  "name" : "Live Cattle Feb 21",
+	  "currency" : "USX",
+	  "stockExchange" : "CME",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "HGUSD",
+	  "name" : "Copper May 21",
+	  "currency" : "USD",
+	  "stockExchange" : "COMMODITY",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "OUSX",
+	  "name" : "Oats Mar 21",
+	  "currency" : "USX",
+	  "stockExchange" : "CBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "LBUSD",
+	  "name" : "Lumber Mar 21",
+	  "currency" : "USD",
+	  "stockExchange" : "CME",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "SBUSX",
+	  "name" : "Sugar #11 Jul 21",
+	  "currency" : "USX",
+	  "stockExchange" : "NYBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "RRUSD",
+	  "name" : "Rough Rice Mar 21",
+	  "currency" : "USD",
+	  "stockExchange" : "CBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "KWUSX",
+	  "name" : "KC HRW Wheat Futures,Mar-2021,C",
+	  "currency" : "USX",
+	  "stockExchange" : "CBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "OJUSX",
+	  "name" : "Orange Juice Jul 21",
+	  "currency" : "USX",
+	  "stockExchange" : "NYBOT",
+	  "exchangeShortName" : "COMMODITY"
+  }, {
+	  "symbol" : "ZGUSD",
+	  "name" : "Gold 100 oz. Apr 20",
+	  "currency" : "USD",
+	  "stockExchange" : "COMMODITY",
+	  "exchangeShortName" : "COMMODITY"
+  } ]

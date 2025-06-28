@@ -1,0 +1,100 @@
+PODS:
+  - Alamofire (5.7.1)
+  - Cache (6.0.0)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - DateToolsSwift (5.0.0)
+  - Hue (5.0.0)
+  - ImageViewer.swift (3.3.8)
+  - JTAppleCalendar (8.0.5)
+  - JXSegmentedView (1.3.0)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - Localize-Swift (2.0.0)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.7.6)
+  - PPBadgeViewSwift (3.1.0)
+  - Schedule (2.1.0)
+  - Sheeeeeeeeet (3.2.2)
+  - SnapKit (5.0.1)
+  - SnapshotKit (0.3.2)
+  - SwiftyJSON (4.3.0)
+  - TagListView (1.4.1)
+  - Then (3.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4)
+  - Cache
+  - Charts (~> 3.6.0)
+  - DateToolsSwift
+  - Hue
+  - ImageViewer.swift (~> 3.0)
+  - JTAppleCalendar
+  - JXSegmentedView
+  - Kingfisher (~> 5.0)
+  - Localize-Swift (~> 2.0)
+  - MBProgressHUD
+  - MJRefresh
+  - PPBadgeViewSwift
+  - Schedule (~> 2.0)
+  - Sheeeeeeeeet
+  - SnapKit (~> 5.0.0)
+  - SnapshotKit
+  - SwiftyJSON (~> 4.0)
+  - TagListView (~> 1.0)
+  - Then
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Cache
+    - Charts
+    - DateToolsSwift
+    - Hue
+    - ImageViewer.swift
+    - JTAppleCalendar
+    - JXSegmentedView
+    - Kingfisher
+    - Localize-Swift
+    - MBProgressHUD
+    - MJRefresh
+    - PPBadgeViewSwift
+    - Schedule
+    - Sheeeeeeeeet
+    - SnapKit
+    - SnapshotKit
+    - SwiftyJSON
+    - TagListView
+    - Then
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  Cache: 4ca7e00363fca5455f26534e5607634c820ffc2d
+  Charts: 888b39ae772b3dc79d0a0e659f0419ff9bd3e963
+  DateToolsSwift: 4207ada6ad615d8dc076323d27037c94916dbfa6
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  ImageViewer.swift: 284cd8127d31af8e5938674fb9f8e695a4cdf6c6
+  JTAppleCalendar: 16c6501b22cb27520372c28b0a2e0b12c8d0cd73
+  JXSegmentedView: fec0d335355b6e019c494fe2e030bde8a36d2df6
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: 2fe7fb43a5167ceda20bb7e63f130c04fd1814a5
+  PPBadgeViewSwift: 18a219a9897f418342c22dd1a54f7b18ac56546b
+  Schedule: 00e6d7bbdbdb000fd1f51a7d10e9f88a8c451fda
+  Sheeeeeeeeet: 6e9f9b1270fe14986fc3ccd9e878dca7d53dcebe
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SnapshotKit: 4e6c25203719cd6be29d3d53a8160c4933102369
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  TagListView: a1c236d17960a0cf64156725a76ce6d73ebce2be
+  Then: 844265ae87834bbe1147d91d5d41a404da2ec27d
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 7c9d63201c4fe8d6d4dee4bed97ecb2b237cce21
+
+COCOAPODS: 1.16.2

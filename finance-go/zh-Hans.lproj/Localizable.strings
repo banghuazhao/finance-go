@@ -1,0 +1,357 @@
+/*
+   Localizable.strings
+   Financial Statements Go
+
+   Created by Banghua Zhao on 6/22/20.
+   Copyright © 2020 Banghua Zhao. All rights reserved.
+ */
+
+/* setting 相关 */
+"More" = "更多";
+
+"Yes" = "是的";
+"Cancel" = "取消";
+
+"Clear Cache" = "清除缓存";
+"Do you want to clear cache" = "你想清除缓存吗";
+
+"Share this App" = "分享这个应用";
+"Finance Go" = "美股财报通";
+
+"Rate this App" = "给应用评分";
+
+"Support this App" = "支持这个应用";
+"Do you want to watch an advertisement to support this App" = "看一个广告支持一下这个应用";
+"Thanks for Your Support" = "谢谢您的支持";
+"We will constantly optimize and maintain our App and make sure users have the best experience" = "我们的团队会持续优化和维护此应用，希望给用户带来最好的体验";
+
+/* Ads */
+"More Apps (Ads)" = "更多应用 (广告)";
+"The purchase is successful" = "购买成功";
+"The purchase is restored" = "商品已恢复";
+"The purchase is failed" = "购买失败";
+"No product to be restored" = "没有需要恢复购买的商品";
+"Restore purchase" = "恢复购买";
+"Remove Ads forever has been purchased" = "永久去广告已购买";
+"Restoring purchase" = "恢复购买中";
+"Request failed" = "请求失败";
+"Requesting the product" = "请求商品中";
+"Remove Ads" = "去广告";
+"Remove this Ads forever" = "永久去除这个广告";
+"Purchasing" = "购买中";
+"No Data" = "无数据";
+"Purchase Notes" = "购买须知";
+"After purchase, all of the Ads will be removed immediately." = "购买后，所有的广告会立即被去除。";
+"The purchase is valid across different devices (iPhone, iPad, Mac) for the same Apple ID." = "该购买对同一 Apple ID 的不同设备 (iPhone, iPad, Mac) 都有效。";
+"If users change a device or reinstall this App, restore purchase will store their previous purchase." = "如果用户更换了设备或者重新安装了这个应用，恢复购买可以恢复之前的购买记录。";
+
+/* 更多 Apps*/
+"More Apps" = "更多应用";
+
+"Apps" = "Apps";
+
+"Check out more Apps made by us" = "发现更多我们的 App";
+
+"SwiftSum" = "极简计算器";
+"Simple Calculator" = "加减乘除专业版";
+
+"TripMark" = "旅行规划师";
+"Trip & Travel Planner" = "旅游计划，记录与分享";
+
+"Image Guru" = "咕噜滤镜";
+"Photo Editor,Filter" = "多风格修图,调色,相片编辑";
+
+"We Play Piano" = "弹钢琴";
+"Piano Keyboard" = "钢琴键盘&钢琴练习app";
+
+"Mint Translate" = "薄荷翻译";
+"Text Translator" = "多语言文字文本互译app";
+
+"Easy Unit" = "易换算";
+"Unit-Conversion" = "单位换算器";
+
+"Yes Habit" = "签签习惯";
+"Habit Tracker" = "习惯追踪养成的自律激励app";
+
+"Money Tracker" = "极简记账";
+"Budget, Expense & Bill Planner" = "预算管理&存钱计划专家";
+
+"Ratios Go" = "财务比率计算器";
+"Financial Ratios Go" = "财务比率计算器";
+"Finance, Ratios, Investing" = "金融, 比率计算, 投资";
+
+"BMI Diary" = "BMI 日记";
+"Fitness, Weight Loss &Health" = "极简健康减肥健身BMI记录工具";
+
+"Novels Hub" = "英文小说站";
+"Fiction eBooks Library!" = "必读英文电子书合集";
+
+"Universe Lover" = "天文迷";
+"Explore Space & Astronomy News" = "即时了解最新天文学发现以及天体物理学新闻";
+
+"Relaxing Up" = "冥想Up";
+"Meditation&Healing" = "放松减压,深度睡眠专注力训练";
+
+"World Weather Live" = "极简天气";
+"All Cities" = "覆盖全球城市的实时天气预报";
+
+"Water_Tracker" = "喝水吧";
+"Drink Water Log" = "每日喝水提醒小助手";
+
+"Sudoku Lover" = "数独迷";
+"Math Games" = "九宫格数字逻辑解谜益智游戏";
+
+
+
+/* 反馈 */
+"Feedback" = "反馈";
+"Facebook Page" = "Facebook Page";
+"Send message to Apps Bay Facebook page" = "在 Apps Bay 的 Facebook page 留言";
+
+"Email" = "电子邮件";
+"Write an email to appsbayarea@gmail.com" = "给 appsbayarea@gmail.com 发电子邮件";
+"Thanks for Your Feedback" = "谢谢您的反馈";
+
+/* App 专用 */
+"Adjust Dividend" = "调整后股息";
+"After Market Close" = "盘后";
+"Annually" = "年度";
+"Balance Sheet" = "资产负债表";
+"Balance Sheet Statement" = "资产负债表";
+"Before Market Open" = "盘前";
+"By Company" = "根据公司";
+"By Date" = "根据日期";
+"Calendars" = "日程表";
+"Cash Flow" = "现金流量表";
+"Cash Flow Statement" = "现金流量表";
+"Change" = "持股变化";
+"Companies" = "公司";
+"Company" = "公司";
+"Company Dashboard" = "公司信息栏";
+"Company Name" = "公司名称";
+"Company News" = "公司新闻";
+"Company Profile" = "公司简介";
+"Company Rating" = "公司评级";
+"Company Symbol" = "公司代号";
+"Company Watch List" = "公司收藏列表";
+"Company Watch List (Tap to show)" = "公司收藏列表 (点击查看)";
+"Date" = "日期";
+"Date Reported" = "报告日期";
+"Day" = "天";
+"Day Stock Prices" = "股票价格（每天）";
+"Declaration Date" = "宣布日期";
+"Denominator" = "分母";
+"Dividend" = "股息分红";
+"Dividend Calendar" = "股息分红日历";
+"Downloading" = "下载中";
+"Earning Calendar" = "财报日历";
+"Earnings Calendar" = "财报日历";
+"Enterprise Values" = "公司价值";
+"Exchange" = "交易所";
+"Financial Growth" = "财务增长";
+"Financial Ratios" = "财务比率";
+"Financial Statements" = "财务报表";
+"Financial Statements Go" = "美股财报通";
+"Fiscal Period" = "财务年度/季度";
+"Free Cash Flow Data" = "自由现金流数据";
+"Holder" = "持有者";
+"Hour" = "小时";
+"Hour Stock Prices" = "股票价格（每小时）";
+"IPO Calendar" = "IPO 日历";
+"Income" = "利润表";
+"Income Statement" = "利润表";
+"Industry" = "产业";
+"Key Metrics" = "重要财务指标";
+"Loading the advertisement" = "广告载入中";
+"Market Cap" = "市值";
+"Minute" = "分钟";
+"Minute Stock Prices" = "股票价格（每分钟）";
+"Net Cash Provided by Financing Activities" = "筹资活动现金流";
+"Net Cash Provided by Operating Activities" = "经营现金流";
+"Net Cash Used for Investing Activities Equity" = "投资活动现金流";
+"Net Income" = "净利润";
+"News" = "新闻";
+"No Data" = "无数据";
+"Not Available" = "无数据";
+"Numerator" = "分子";
+"Operating Income" = "经营收入";
+"Payment Date" = "支付日期";
+"Price Range" = "价格区间";
+"Quarterly" = "季度";
+"Record Date" = "记录日期";
+"RevenueTrue" = "总收入";
+"Revenue Estimated" = "预计总收入";
+"Search a Stock/Comapny/Index/Crypto/Fund/ETF/Forex" = "搜索美股代码/公司/指数/加密货币/基金/外汇";
+"Select a Company" = "选择一个公司";
+"Select a Fiscal Period" = "选择一个财务年度/季度";
+"Select a date or company" = "选择日期或者公司";
+"Shares" = "股数";
+"Stock News" = "股票新闻";
+"Stock Prices" = "股票价格";
+"Stock Split Calendar" = "拆股日历";
+"Stock Split Ratio" = "拆股比率";
+"Time" = "时间";
+"Institutional Holders (Top 25)" = "持有机构（前25）";
+"Mutual Fund Holders (Top 25)" = "持有基金（前25）";
+"Total Assets" = "总资产";
+"Total Liabilities" = "总负债";
+"Total Stockholders Equity" = "总股东权益";
+"Unknown" = "未知";
+"Visualization" = "可视化";
+"Website" = "网站";
+"companies in the watch list" = "个公司被收藏";
+"Stock Exchanges" = "证券交易所";
+"Revenue" = "收入项目";
+"Expenses" = "费用项目";
+"Others" = "其他";
+"Assets" = "资产";
+"Liability" = "负债";
+"Equity" = "所有者权益";
+"Cash Flow from Operations" = "经营活动现金流";
+"Cash Flow from Investing" = "投资活动现金流";
+"Cash Flow from Financing" = "筹资活动现金流";
+"Net Increase/Decrease In Cash" = "现金净增加/减少额";
+"Stock news updated at" = "股票新闻更新于";
+"Earning Call Transcript" = "财报电话会议记录";
+"Quarter" = "季度";
+"Year" = "年份";
+"Content" = "内容";
+"Stock Insider Trading" = "股票内线交易";
+"By Securities Transacted" = "根据 Securities Transacted";
+"Sort" = "排序";
+
+"General" = "通用";
+"Tools" = "工具";
+"More Tools" = "更多工具";
+"More tools are developing" = "正在开发更多的工具";
+"Financial Terms and Definition" = "财务报表术语说明";
+"Search financial terms" = "搜索财务报表术语";
+"Select Category" = "选择类别";
+"Financial Definition" = "术语解释";
+"All" = "全部";
+"Basic" = "基础";
+
+"Watchlist added" = "自选列表添加了";
+"Watch list removed" = "自选列表删除了";
+
+"Most Actives" = "最活跃";
+"Most Gainer" = "最大升幅";
+"Most Loser" = "最大跌幅";
+"Earning" = "财报业绩";
+"Stock Split" = "拆股";
+"Show All" = "全部";
+"Articles" = "财经资讯";
+"Article" = "财经资讯";
+"Symbol" = "股票代号";
+"EPS Estimated" = "预期EPS";
+"Ratio" = "比率";
+"Related Articles" = "相关文章";
+"Related Company" = "相关公司";
+"Related Stock News" = "相关股票新闻";
+
+"New Version" = "新版本";
+"Update to the latest version" = "更新到最新版本";
+"Trending" = "今日热门";
+"History" = "历史记录";
+"Home" = "主页";
+"Drag and drop to move company" = "拖拽移动公司";
+"Select a Stock Exchange" = "选择一个股票交易所";
+
+"Today" = "今日";
+"Past Week" = "过去一周";
+"Past Month" = "过去一个月";
+"Past 3 Months" = "过去三个月";
+"Past Year" = "过去一年";
+"Past 5 Years" = "过去五年";
+"All Time" = "全部";
+
+"IPO Date" = "IPO日期";
+"Full Time Employees" = "全职员工";
+"Sector" = "行业";
+"Country" = "国家";
+"City" = "城市";
+"Address" = "地址";
+
+"Open" = "开市";
+"Volume" = "成交量";
+"Average Volume" = "平均成交量";
+"Day High" = "今日最高价";
+"Day Low" = "今日最低价";
+"Market Cap" = "市值";
+"Year High" = "一年最高价";
+"Year Low" = "一年最低价";
+"50-Day Moving Avg" = "50日均价";
+"200-Day Moving Avg" = "200日均价";
+
+"Stock Peers" = "相关股票";
+"The watchlist is empty" = "自选列表為空";
+"Tap" = "点击";
+"to add" = "添加";
+"Discounted Cash Flow" = "现金流贴现";
+
+"Real Time" = "实时";
+"Daily" = "每日";
+"Institutional" = "机构";
+"Mutual Fund" = "共同基金";
+"Holders" = "持有人";
+"Upgrades & Downgrades" = "评级调升 & 调降";
+"Upgrade" = "评级上调";
+"Maintains" = "保持评级";
+"Downgrade" = "评级下降";
+"Initiated" = "首次评级";
+"Grading Company" = "评级机构";
+"Grade" = "评级";
+
+"Pull to Reload" = "下拉加载";
+"Network Error" = "网络错误";
+"4 Consecutive Quarters" = "4个连续季度";
+"8 Consecutive Quarters" = "8个连续季度";
+"All Fiscal Quarters" = "所有季度";
+"4 Consecutive Years" = "4个连续财年";
+"8 Consecutive Years" = "8个连续财年";
+"All Fiscal Years" = "所有财年";
+"Select a Date" = "选择日期";
+"vs" = "对比";
+"to" = "到";
+"Compare with previous" = "与上一个同期相比";
+"Current" = "当前";
+"Compare" = "对比";
+"Stocks" = "股票";
+"Stock" = "股票";
+"Funds" = "共同基金";
+"Fund" = "共同基金";
+"Cryptocurrency" = "加密货币";
+"Cryptocurrencies" = "加密货币";
+"Crypto" = "加密货币";
+"Futures" = "期货";
+"Future" = "期货";
+"Index" = "指数";
+"Indexes" = "指数";
+"Major Indexes" = "主要指数";
+"Gainers" = "升幅";
+"Losers" = "跌幅";
+"Related Cryptocurrency" = "相关加密货币";
+"Watchlist" = "自选列表";
+"Single Quarter" = "单个季度";
+"Single Year" = "单个财年";
+
+"S&P 500 Companies" = "标普500公司";
+"Dow Jones Companies" = "道琼斯公司";
+"Nasdaq 100 Companies" = "纳斯达克公司";
+
+"Surprise" = "盈利不符预测";
+"Historical Calendar" = "日程表";
+
+"Forex" = "外汇";
+
+"Economic Calendar" = "经济日历";
+"Economic" = "经济";
+"Search region or event" = "搜索地区或经济指标";
+"Value" = "数值";
+"Event" = "经济指标";
+"Region" = "地区";
+
+"Crypto News" = "加密货币新闻";
+"Forex News" = "外汇市场新闻";
+"Related Crypto News" = "相关加密货币新闻";
+"Related Forex News" = "相关汇率新闻";
